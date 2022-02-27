@@ -1,1 +1,1 @@
-# otus-basics
+# otus-cmake
